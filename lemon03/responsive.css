@@ -1,0 +1,504 @@
+/*		Default Layout: 992px. 
+		Gutters: 24px.
+		Outer margins: 48px.
+		Leftover space for scrollbars @1024px: 32px.
+-------------------------------------------------------------------------------
+*/
+img{
+	max-width:100%;
+	height:auto;
+}
+@media only screen and (max-width: 1200px) {
+.article6 {
+    width: 100%;
+}
+.right_ssection {
+    width: 48%;
+    height: 103px;
+}
+.left_ssection {
+    width: 50%;
+    float: left;
+    overflow: hidden;
+}
+.input_search input[type="text"] {
+    width: 80%;
+}
+.input_search input[type="button"] {
+    width: 18%;
+
+}
+.cover_bg p {
+    line-height: 15px;
+    color: #FFF;
+}
+.article7 {
+    width: 100%;
+    margin: 0px auto;
+}
+.wrap_socal {
+    margin-right: 3%;
+    width: 30%;
+}
+.article8 {
+    width: 100%;
+}
+
+
+}
+@media only screen and (max-width: 1100px) {
+header {
+    width: 95%;
+    margin: 30px auto 0px;
+}
+.title {
+    float: left;
+    width: 37%;
+}	
+.article2 {
+    width: 100%;
+}	
+.fir_article2 {
+    padding-right: 15px;
+    padding-left: 15px;
+    width: 22%;
+}
+.sec_article2 {
+    width: 22%;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+.thi_article2 {
+    width: 22%;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+.fifth_article2 {
+    width: 21%;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+.article3 {
+    width: 100%;
+}
+.article4 {
+    width: 98%;
+}
+.article5 {
+    width: 98%;
+}
+.two_content {
+    width: 48%;
+    padding-right: 4%;
+}
+.two_content_bottom {
+    width: 48%;
+}
+.five_photo p {
+    line-height: 23px;
+}	
+.five_botton p {
+    line-height: 23px;
+}	
+.article6 {
+    width: 100%;
+}	
+.left_ssection {
+    width: 51%;
+}	
+.right_ssection {
+    overflow: hidden;
+    float: left;
+    width: 48%;
+}	
+.cover_bg {
+    
+}	
+
+
+	
+	
+	
+}
+
+/*		Tablet Layout: 768px.
+		Gutters: 24px.
+		Outer margins: 28px.
+		Inherits styles from: Default Layout.
+-----------------------------------------------------------------
+cols    1     2      3      4      5      6      7      8
+px      68    160    252    344    436    528    620    712    */
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+.title {
+    float: left;
+    width: 22%;
+}
+nav ul li a {
+    padding: 5px 15px;
+}
+.fir_article2 {
+    width: 19%;
+}
+.article_wrap5 {
+    height: auto;
+}
+.five_photo p {
+    line-height: 18px;
+    font-size: 15px;
+}
+.five_botton p {
+    line-height: 18px;
+    font-size: 15px;
+}
+.cover_bg img {
+    margin-bottom: 20px;
+}
+.cover_bg p {
+    font-size: 15px;
+}
+.wrap_socal h2 {
+    font-size: 22px;
+}
+.article8a {
+    line-height: 18px;
+	margin-top:25px;
+}
+.article7 {
+    width: 95%;
+}	
+
+	
+	
+	
+	
+	
+}
+
+/*		Mobile Layout: 320px.
+		Gutters: 24px.
+		Outer margins: 34px.
+		Inherits styles from: Default Layout.
+---------------------------------------------
+cols    1     2      3
+px      68    160    252    */
+
+@media only screen and (max-width: 767px) {
+.title {
+    float: none;
+    width: 100%;
+    text-align: center;
+}
+.header_wrap {
+    width: 100%;
+    height: auto;
+}	
+nav ul li {
+    float: none;
+	background-color:gray;
+	margin-bottom:5px;
+	padding:10px;
+}	
+.title {
+    margin-bottom: 25px;
+}	
+.article1 h2 {
+    font-size: 30px;
+}
+.article1 p {
+    font-size: 20px;
+}
+.fir_article2 {
+    width: 90%;
+}
+.article_wrap2 {
+    height: auto;
+}
+.article2 {
+    height: auto;
+}
+.sec_article2 {
+    width: 90%;
+}
+.thi_article2 {
+    width: 90%;
+}
+.fifth_article2 {
+    width: 90%;
+}
+.article3 h2 {
+    font-size: 30px;
+}
+.article3 p {
+    font-size: 20px;
+}
+.article_wrap3 {
+    width: 100%;
+    height: auto;
+}
+.article_wrap5 {
+    width: 100%;
+    height: auto;
+}
+.two_content {
+    width: 100%;
+    padding-right: 0%;
+}
+.two_content_bottom {
+    width: 100%;
+}
+.bottom_section {
+    height: auto;
+}
+.left_ssection {
+    width: 100%;
+	float:none;
+}
+.right_ssection {
+    float: none;
+    width: 100%;
+	margin-top: 20px;
+}
+.article_wrap6 {
+    height: auto;
+}
+.article_wrap7 {
+    height: auto;
+}
+.wrap_socal {
+    margin-right: 0%;
+    width: 100%;
+}
+.five_photo {
+    overflow: hidden;
+}
+.five_botton {
+    overflow: hidden;
+}
+.right_ssection {
+    width: 95%;
+    margin-top: 20px;
+    margin: auto;
+    margin-top: 20px;
+}
+.left_ssection {
+    width: 95%;
+    float: none;
+    margin: auto;
+}
+.wrap_socal {
+    margin-top: 15px;
+    margin-bottom: 15px;
+    width: 100%;
+}
+.article8a {
+    line-height: 20px;
+	margin-top:20px;
+}
+.article_wrap1 {
+    height: auto;
+}
+.article1 {
+    margin-bottom: 20px;
+}
+.article_wrap4 {
+    width: 100%;
+    height: 237px;
+    background-color: #FFF;
+    overflow: hidden;
+}
+
+
+	
+	
+}
+/*		Wide Mobile Layout: 480px.
+		Gutters: 24px.
+		Outer margins: 22px.
+		Inherits styles from: Default Layout, Mobile Layout.
+------------------------------------------------------------
+cols    1     2      3      4      5
+px      68    160    252    344    436    */
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+.title {
+    float: none;
+    width: 100%;
+    text-align: center;
+}
+.header_wrap {
+    width: 100%;
+    height: auto;
+}	
+nav ul li {
+    float: none;
+	background-color:gray;
+	margin-bottom:5px;
+	padding:10px;
+}	
+.title {
+    margin-bottom: 25px;
+}	
+.article1 h2 {
+    font-size: 30px;
+}
+.article1 p {
+    font-size: 20px;
+}
+.fir_article2 {
+    width: 90%;
+}
+.article_wrap2 {
+    height: auto;
+}
+.article2 {
+    height: auto;
+}
+.sec_article2 {
+    width: 90%;
+}
+.thi_article2 {
+    width: 90%;
+}
+.fifth_article2 {
+    width: 90%;
+}
+.article3 h2 {
+    font-size: 30px;
+}
+.article3 p {
+    font-size: 20px;
+}
+.article_wrap3 {
+    width: 100%;
+    height: auto;
+}
+.article_wrap5 {
+    width: 100%;
+    height: auto;
+}
+.two_content {
+    width: 100%;
+    padding-right: 0%;
+}
+.two_content_bottom {
+    width: 100%;
+}
+.bottom_section {
+    height: auto;
+}
+.left_ssection {
+    width: 100%;
+	float:none;
+}
+.right_ssection {
+    float: none;
+    width: 100%;
+	margin-top: 20px;
+}
+.article_wrap6 {
+    height: auto;
+}
+.article_wrap7 {
+    height: auto;
+}
+.wrap_socal {
+    margin-right: 0%;
+    width: 100%;
+}
+.five_photo {
+    overflow: hidden;
+}
+.five_botton {
+    overflow: hidden;
+}
+.right_ssection {
+    width: 95%;
+    margin-top: 20px;
+    margin: auto;
+    margin-top: 20px;
+}
+.left_ssection {
+    width: 95%;
+    float: none;
+    margin: auto;
+}
+.wrap_socal {
+    margin-top: 15px;
+    margin-bottom: 15px;
+    width: 100%;
+}
+.article8a {
+    line-height: 20px;
+	margin-top:20px;
+}
+.article_wrap1 {
+    height: auto;
+}
+.article1 {
+    margin-bottom: 20px;
+}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}
+@media only screen and (max-width: 450px) {
+.five_photo p {
+    line-height: 14px;
+    font-size: 14px;
+}
+.five_photo h2 {
+    font-size: 20px;
+}
+.five_botton p {
+    line-height: 14px;
+    font-size: 14px;
+}
+.five_botton h2 {
+    font-size: 20px;
+}
+.cover_bg img {
+    margin-bottom: 10px;
+}
+.cover_bg p {
+    line-height: 13px;
+    font-size: 12px;
+}
+.massage img {
+    margin-bottom: 13px;
+}
+
+
+
+}
+
+/*	Retina media query.
+	Overrides styles for devices with a 
+	device-pixel-ratio of 2+, such as iPhone 4.
+-----------------------------------------------    */
+
+@media 
+	only screen and (-webkit-min-device-pixel-ratio: 2),
+	only screen and (min-device-pixel-ratio: 2) {
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}
