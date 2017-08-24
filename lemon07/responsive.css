@@ -1,0 +1,574 @@
+img{
+	max-width:100%;
+	height:auto;
+}
+@media only screen and (max-width: 1200px){
+.wrapper {
+    width: 95%;
+    margin: 0px auto;
+}
+.logo1 {
+    margin-right: 4%;
+}
+.main_menu {
+    margin-right: 4%;
+}
+.big_menu ul li a {
+    padding: 5px 8px;
+    margin-right: 8px;
+    margin-left: 8px;
+}
+
+.sort_blog2 ul li a {
+    font-size: 15px;
+    padding: 10px 40px;
+}
+.sort_blog2 ul li a:hover{
+	display:block;
+	font-size:15px;
+	padding:10px 40px;
+}
+.comment {
+    margin-left: 43%;
+}
+.sort_blog_bg {
+    margin-top: 15px;
+}
+.section_part {
+    width: 70%;
+    margin-right: 3%;
+}
+.aside_part {
+    width: 27%;
+}
+.img_section {
+    width: 100%;
+}
+.content_woman {
+    float: left;
+    width: 37%;
+    height: auto;
+}
+.content_woman img{
+    width: 100%;
+	height: 28%;
+}
+.nature_text {
+    width: 59%;
+}
+.nature_1{
+	font-size:14px;
+}
+.single_foot {
+    width: 31%;
+    margin-right: 3%;
+}
+.foot_text h3{
+    font-size:17px;
+}
+.foot_text p{
+    font-size:15px;
+}
+.nature_2_text p{
+	font-size:14px;
+}
+.single_fantistic {
+    width: 48%;
+    margin-right: 4%;
+}
+.text_long h2 {
+    font-size: 40px;
+}
+.email_long [type="email"] {
+    width: 250px;
+}
+.email_long [type="button"] {
+    width: 158px;
+}
+.footer_top_single {
+    width: 22%;
+    margin-right: 4%;
+}
+.birt p {
+    font-size: 13px;
+}
+.birt_text a{
+    font-size:13px;
+}
+.social_w ul li a {
+    padding: 4px 9px;
+    margin-right: 5px;
+}
+.img_flicr img {
+    width: 64px;
+    height: 64px;
+}
+.aside_inner [type="search"] {
+    width: 95%;
+}
+.subscribe [type="text"], [type="email"] {
+    width: 100%;
+}
+.subscribe [type="button"] {
+    width: 100%;
+}
+.aro_left {
+    width: 45%;
+}
+.aro_right {
+    width: 45%;
+}
+.social_button ul li a {
+    padding: 5px 9px;
+    margin-right: 5px;
+}
+.tab_post h2 {
+    font-size: 21px;
+}
+.recent {
+    padding: 10px 16px;
+}
+.popular {
+    padding: 10px 16px;
+}
+.duis_img {
+    width: 40%;
+}
+.duis_text {
+    width: 53%;
+}
+.tags a {
+    padding: 10px 12px;
+    margin-right: 4px;
+	font-size: 15px;
+}
+
+.footer_menu li a {
+    text-decoration: none;
+    color: #FFF;
+    display: block;
+    padding: 5px 15px;
+}
+.email_long [type="email"] {
+    width: 240px;
+}
+.email_long [type="button"] {
+    width: 150px;
+}
+.email_long [type="button"] {
+    width: 170px;
+    margin-left: 25px;
+}
+
+
+}
+
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+.logo1 {
+    margin-right: 2%;
+}
+.main_menu {
+    margin-right: 2%;
+}
+.big_menu ul li a {
+    padding: 5px 5px;
+    margin-right: 5px;
+    margin-left: 5px;
+}
+.logo2in li {
+    margin-right: 5px;
+    margin-left: 5px;
+}
+.slider_middle h1 {
+    font-size: 40px;
+    margin-bottom: 35px;
+}
+.comment {
+    margin-left: 40%;
+}
+.woner_top {
+    margin-top: 20px;
+}
+.sort_blog1 {
+    margin-right: 10px;
+}
+.sort_blog2 ul li a {
+    font-size: 14px;
+    padding: 10px 22px;
+}
+.sort_blog2 ul li a:hover {
+    font-size: 14px;
+    padding: 10px 22px;
+}
+.aro_left {
+    width: 40%;
+}
+.aro_right {
+    width: 40%;
+}
+.social_button ul li a {
+    padding: 2px 6px;
+    margin-right: 5px;
+    font-size: 13px;
+}
+.tab_post h2 {
+    font-size: 16px;
+}
+.recent {
+    padding: 9px;
+}
+.recent p{
+	font-size:11px;
+}
+.popular {
+    padding: 9px;
+}
+.popular p{
+    font-size:11px;
+}
+
+.duis_img {
+    width: 36%;
+}
+.duis_text {
+    width: 54%;
+	padding-left: 10px;
+}
+.duis_text .span1 {
+    font-size: 10px;
+}
+.duis_text .span2 {
+    font-size: 10px;
+}
+.duis_text p {
+    font-size: 10px;
+}
+.tags a {
+    padding: 8px 5px;
+    margin-right: 1px;
+    font-size: 12px;
+}
+.nature_text {
+    width: 63%;
+}
+
+
+.content_woman {
+    width: 33%;
+}
+.content_woman img {
+    height: 24%;
+}
+.nature_text {
+    padding: 7px;
+}
+.nature_1 {
+    padding-bottom: 4px;
+}
+.nature_1 {
+    font-size: 12px;
+}
+.nature_2 {
+    padding-top: 5px;
+}
+.foot_text h3 {
+    font-size: 15px;
+}
+.foot_text p {
+    font-size: 12px;
+}
+.nature_2_man img{
+   width:40px;
+   height:40px;
+}
+.nature_2_text h3 {
+    font-size: 15px;
+}
+.nature_2_text p {
+    font-size: 10px;
+}
+.fantistic_text {
+    padding: 8px;
+}
+.fantistic_text h3{
+    font-size:17px;
+}
+.fantistic_text p{
+    font-size:14px;
+}
+.footer_top_single {
+    width: 23%;
+    margin-right: 2%;
+    overflow: hidden;
+}
+.footer_top_single > a {
+    width: 93%;
+    margin-right: 0px;
+	font-size: 14px;
+}
+.dropd {
+    width: 93%;
+   
+}
+.dropd ul li a {
+    font-size: 14px;
+}
+.birt_text p {
+    margin-right: 5px;
+    font-size: 10px;
+}
+.birt_text a {
+    font-size: 10px;
+}
+.social_w ul li a {
+    padding: 2px 7px;
+    margin-right: 5px;
+    font-size: 13px;
+}
+.img_flicr img {
+    width: 51px;
+    height: 51px;
+}
+
+
+.footer_menu li a {
+    padding: 5px 5px;
+}
+.email_long {
+    float: left;
+    margin-left: 20px;
+}
+.email_long [type="email"] {
+    width: 200px;
+}
+.email_long [type="button"] {
+    
+}
+.email_long [type="button"] {
+    width: 127px;
+	margin-left: 10px;
+	font-size: 20px;
+}
+
+}
+
+@media only screen and (max-width: 767px) {
+.wrapper {
+    width: 98%;
+}
+.logo1 {
+    margin-right: 0px;
+    float: left;
+}
+.logo2 {
+    float: right;
+    position: absolute;
+    top: 74px;
+    right: 0px;
+}
+.main_menu {
+    float: none;
+    margin-right: 0px;
+    margin-top: 50px;
+}
+.big_menu ul li {
+    float: none;
+}
+.big_menu ul li a {
+    width: 96%;
+    background-color: green;
+    margin-bottom: 5px;
+}
+.slider_middle {
+    margin-top: 30px;
+    text-align: center;
+}
+.slider_middle h4 {
+    font-size: 20px;
+    margin-bottom: 5px;
+}
+.slider_middle h1 {
+    font-size: 150%;
+	margin-bottom: 20px;
+}
+.slider_middle a {
+    font-size: 15px;
+    border-radius: 25px;
+    padding: 7px 20px;
+}
+.comment {
+    margin-left: 34%;
+}
+.woner_bottom {
+    margin-top: 10px;
+}
+.woner_top {
+    margin-top: 0px;
+}
+.sort_inner {
+    height: auto;
+    padding-bottom: 10px;
+}
+.sort_blog2 {
+    float: right;
+}
+.sort_blog2 ul li {
+    float: none;
+}
+.section_part {
+    width: 100%;
+    margin-right: 0%;
+}
+.content_woman {
+    display: none;
+}
+.nature_text {
+    width: 97%;
+}
+.single_foot {
+    width: 100%;
+    margin-right: 0%;
+    margin: 0px auto;
+}
+.single_foot img{
+    width: 100%;
+}
+.single_fantistic {
+    width: 100%;
+    float: none;
+    margin: 0px auto;
+    text-align: center;
+}
+.fantistic_ing img {
+    width: 100%;
+}
+.fantistic_text {
+    text-align: left;
+}
+.aside_part {
+    width: 100%;
+    float: none;
+}
+.subscribe [type="text"], [type="email"] {
+    width: 100%;
+    padding-left: 10px;
+}
+.aside_inner [type="search"] {
+    width: 95%;
+    padding-left: 15px;
+}
+.aro_left {
+    width: 29%;
+}
+.aroo {
+    width: 100%;
+}
+.text_long {
+    float: none;
+    width: 100%;
+}
+.text_long h2 {
+    font-size: 200%;
+    text-align: center;
+}
+.long-bg {
+    line-height: 100px;
+}
+.text_long {
+    float: none;
+    width: 100%;
+}
+.email_long {
+    float: none;
+    width: 100%;
+    text-align: center;
+    margin: auto;
+}
+.long-bg {
+    line-height: 50px;
+	margin-top:20px;
+	margin-bottom:20px;
+}
+.footer_top {
+    height: auto;
+}
+.footer_top_single {
+    width: 95%;
+    margin-right: 0%;
+}
+.footer_top_inner {
+    margin-top: 15px;
+}
+.footer_top_single h2 {
+    margin-bottom: 20px;
+}
+.footer_top_single {
+    width: 95%;
+    margin-right: 0%;
+    margin-top: 20px;
+}
+.img_flicr img {
+    height: auto;
+    width: 32%;
+}
+.footer_menu {
+    display: none;
+}
+.fantistic_owner {
+    padding: 0px 10px 10px;
+    text-align: left;
+}
+.aro_left img{
+	width:100%;
+}
+
+}
+
+/*		Wide Mobile Layout: 480px.
+		Gutters: 24px.
+		Outer margins: 22px.
+		Inherits styles from: Default Layout, Mobile Layout.
+------------------------------------------------------------
+cols    1     2      3      4      5
+px      68    160    252    344    436    */
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+
+	
+	
+	
+		
+}
+/*	Retina media query.
+	Overrides styles for devices with a 
+	device-pixel-ratio of 2+, such as iPhone 4.
+-----------------------------------------------    */
+
+@media 
+	only screen and (-webkit-min-device-pixel-ratio: 2),
+	only screen and (min-device-pixel-ratio: 2) {
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}
+
+
+
+
+
+
+
+
