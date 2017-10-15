@@ -1,0 +1,204 @@
+img{
+	max-width:100%;
+	height:auto;
+}
+
+
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+.container{
+	width:95%;
+}
+.slicknav_menu{
+	display:none;
+}
+.container .one_content .single_one {
+    width: 31%;
+	margin-right:2%;
+}
+.container .two_content .single_two {
+    width: 31%;
+}
+.single_two_form input[type="text"] {
+    width: 95%;
+}
+.single_two_form input[type="email"] {
+    width: 95%;
+}
+.single_two_form textarea {
+    width: 95%;
+}
+.container .two_content .single_two input[type="email"] {
+    width: 95%;
+}
+.container .two_content .single_two ul {
+    display: block;
+    overflow: hidden;
+}
+.top_menu #nav li a {
+    font-size: 12px;
+}
+.top_menu #nav li span {
+    font-size: 9px;
+}
+.top_menu #nav li {
+    margin-left: 5px;
+    padding-left: 5px;
+}
+
+
+
+}
+
+@media only screen and (max-width: 767px) {
+.container{
+	width:98%;
+}
+#nav{
+	display:none;
+}
+.slicknav_menu{
+	display:block;
+}
+.container .one_content .single_one {
+    width: 100%;
+	float:none;
+	text-align:center;
+	margin-bottom:10px;
+}
+.footer_left {
+    float: none;
+    width: 100%;
+    text-align: center;
+}
+.footer_right {
+    float: none;
+    text-align: center;
+}
+.bottom_menu{
+	display:none;
+}
+.privacy_policy{
+	display:none;
+}
+.container .two_content .single_two {
+    width: 95%;
+    overflow: hidden;
+    margin-bottom: 10px;
+}
+.container .two_content .single_two ul {
+    overflow: hidden;
+}
+.container .two_content .single_two input[type="email"] {
+    width: 95%;
+}
+.container .two_content .single_two input[type="text"] {
+    width: 95%;
+}
+.container .two_content textarea{
+    width: 95%;
+}
+.slicknav_nav li {
+    border-bottom: 1px solid gray;
+    background-color: gray;
+}
+.slicknav_menu li span{
+    display:none;
+}
+
+}
+
+/*		Wide Mobile Layout: 480px.
+		Gutters: 24px.
+		Outer margins: 22px.
+		Inherits styles from: Default Layout, Mobile Layout.
+------------------------------------------------------------
+cols    1     2      3      4      5
+px      68    160    252    344    436    */
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+.container{
+	width:98%;
+}
+#nav{
+	display:none;
+}
+.slicknav_menu{
+	display:block;
+}
+.container .one_content .single_one {
+    width: 100%;
+	float:none;
+	text-align:center;
+	margin-bottom:10px;
+}
+.footer_left {
+    float: none;
+    width: 100%;
+    text-align: center;
+}
+.footer_right {
+    float: none;
+    text-align: center;
+}
+.bottom_menu{
+	display:none;
+}
+.privacy_policy{
+	display:none;
+}	
+.container .two_content .single_two {
+    width: 100%;
+    float: none;
+    overflow: hidden;
+    margin-bottom: 20px;
+}
+.container .two_content .single_two ul {
+    overflow: hidden;
+}
+.container .two_content .single_two input[type="email"] {
+    width: 95%;
+}
+.container .two_content .single_two input[type="text"] {
+    width: 95%;
+}
+.container .two_content textarea{
+    width: 95%;
+}
+.slicknav_menu li span{
+    display:none;
+}	
+
+}
+/*	Retina media query.
+	Overrides styles for devices with a 
+	device-pixel-ratio of 2+, such as iPhone 4.
+-----------------------------------------------    */
+
+@media 
+	only screen and (-webkit-min-device-pixel-ratio: 2),
+	only screen and (min-device-pixel-ratio: 2) {
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}
+
+
+
+
+
+
+
+
