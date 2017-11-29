@@ -1,0 +1,51 @@
+img{
+	max-width:100%;
+	height:auto;
+}
+
+@media only screen and (min-width: 800px) and (max-width: 991px) {
+
+
+
+
+
+
+}
+
+@media only screen and (min-width: 480px) and (max-width: 800px) {
+
+
+
+
+
+
+
+
+
+
+
+}
+@media only screen and (max-width: 900px) {
+.container_fo_top {
+    width: 95%;
+    margin: 0px auto;
+}
+.container_bbottom_slider {
+    width: 95%;
+    margin: 0px auto;
+    overflow: hidden;
+}
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
